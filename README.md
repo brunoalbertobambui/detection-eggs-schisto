@@ -30,4 +30,4 @@ The code is structured in a jupyter notebook and can be run either locally or on
 
 The set of images is available in the Mendeley repository at (https://xxxxxxxxxxxxxxx.com/) and must be used for the experiments.
 
-The step-by-step steps for running the project are detailed in the jupyter-notebook.ipynb file itself.
+The step-by-step steps for running the project are detailed in the file itself jupyter-notebook.ipynb (https://github.com/brunoalbertobambui/detection-eggs-schisto/blob/main/jupyter-notebook.ipynb).
