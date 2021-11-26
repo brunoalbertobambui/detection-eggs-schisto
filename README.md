@@ -2,6 +2,8 @@
 
 Code referring to the experiments presented in the article submitted to the journal Neural Computing and Applications (NCAA).
 
+![alt text](https://github.com/brunoalbertobambui/detection-eggs-schisto/blob/main/sistema.jpg)
+
 
 ## Abstract
 
