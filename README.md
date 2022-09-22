@@ -2,6 +2,8 @@
 
 Code referring to the experiments presented in the article submitted to the journal Neural Computing and Applications (NCAA).
 
+Article link: https://link.springer.com/article/10.1007/s00521-022-06924-z
+
 ![alt text](https://github.com/brunoalbertobambui/detection-eggs-schisto/blob/main/sistema.jpg)
 
 
@@ -30,6 +32,6 @@ One of the biggest concerns in the area of public health is caused by human inte
 
 The code is structured in a jupyter notebook and can be run either locally or on google collab (https://colab.research.google.com/).
 
-The set of images is available in the Mendeley repository at (https://xxxxxxxxxxxxxxx.com/) and must be used for the experiments.
+The set of images is available in the Mendeley repository at (https://data.mendeley.com/datasets/5ckgmp4zzj/2) and must be used for the experiments.
 
 The step-by-step steps for running the project are detailed in the file itself jupyter-notebook.ipynb (https://github.com/brunoalbertobambui/detection-eggs-schisto/blob/main/jupyter-notebook.ipynb).
